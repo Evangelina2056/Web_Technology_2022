@@ -90,14 +90,14 @@
                $routeProvider.when('/2030',{
                 templateUrl:'2030.html'
                })
-               .when('/2083',{
-                templateUrl:'2083.html'
+                .when('/2054',{
+                templateUrl:'10.2.2054.html'
                })
-               .when('/2084',{
-                templateUrl:'2084.html'
+               .when('/2040',{
+                templateUrl:'10.2.2040.html'
                })
-               .when('/2086',{
-                templateUrl:'2086.html'
+               .when('/2070',{
+                templateUrl:'10.2.2070.html'
                })
     
             });
